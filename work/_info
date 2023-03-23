@@ -1,0 +1,547 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/k556u/Desktop/project
+vadd32
+Z1 !s110 1560339437
+!i10b 1
+!s100 QV<0ZKKd^9l`>f?T>;17f2
+I32=Vio=Sk]l8JAIR=1EYB3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1559965280
+8C:/Users/k556u/Desktop/project/add32.v
+FC:/Users/k556u/Desktop/project/add32.v
+L0 5
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1560339437.000000
+!s107 C:/Users/k556u/Desktop/project/add32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/add32.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vALU
+R1
+!i10b 1
+!s100 m_MP[?05zD7bTPB>kNEhf0
+IjV>JLkOZgzS4Q5zC1L3Da1
+R2
+R0
+w1559960866
+8C:/Users/k556u/Desktop/project/alu.v
+FC:/Users/k556u/Desktop/project/alu.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/k556u/Desktop/project/alu.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/alu.v|
+!s101 -O0
+!i113 1
+R5
+n@a@l@u
+vALU1bit
+R1
+!i10b 1
+!s100 T0;<o[PjUIJ8RaRAAOlDk0
+I[VAEfFIO^aX[ng8WU9Sa>1
+R2
+R0
+w1559960870
+8C:/Users/k556u/Desktop/project/ALU1bit.v
+FC:/Users/k556u/Desktop/project/ALU1bit.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/k556u/Desktop/project/ALU1bit.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/ALU1bit.v|
+!s101 -O0
+!i113 1
+R5
+n@a@l@u1bit
+valu_ctl
+R1
+!i10b 1
+!s100 CS9<65RE?5nE3m]DN8UOD3
+IcI4T3OD<S6X44;`T>>Kl`2
+R2
+R0
+w1560337892
+8C:/Users/k556u/Desktop/project/alu_ctl.v
+FC:/Users/k556u/Desktop/project/alu_ctl.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/k556u/Desktop/project/alu_ctl.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/alu_ctl.v|
+!s101 -O0
+!i113 1
+R5
+vALUControl
+R1
+!i10b 1
+!s100 AB9=EZ>ab>AA:L]gceKjX3
+IcHdFokRGU_^W6LKBQ9>X;3
+R2
+R0
+w1560337966
+8C:/Users/k556u/Desktop/project/ALUControl.v
+FC:/Users/k556u/Desktop/project/ALUControl.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/k556u/Desktop/project/ALUControl.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/ALUControl.v|
+!s101 -O0
+!i113 1
+R5
+n@a@l@u@control
+vcontrol_single
+R1
+!i10b 1
+!s100 >]6o6I4;HGf<U9W_b[5N>3
+I7Z:?7K0@FdR@`:RE1dRX]1
+R2
+R0
+w1560338140
+8C:/Users/k556u/Desktop/project/control_single.v
+FC:/Users/k556u/Desktop/project/control_single.v
+L0 18
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/k556u/Desktop/project/control_single.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/control_single.v|
+!s101 -O0
+!i113 1
+R5
+vEX_MEM
+R1
+!i10b 1
+!s100 JdNC39FJO8T?NU54<I1CU3
+ISK470azJ4da]8_42<0PhN0
+R2
+R0
+w1560338243
+8C:/Users/k556u/Desktop/project/EX_MEM.v
+FC:/Users/k556u/Desktop/project/EX_MEM.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/k556u/Desktop/project/EX_MEM.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/EX_MEM.v|
+!s101 -O0
+!i113 1
+R5
+n@e@x_@m@e@m
+vFullAdder
+R1
+!i10b 1
+!s100 mcRAW5QZRdfUKIGSVi5JQ1
+Ia76hLE=6K>:C:5h>2]00g1
+R2
+R0
+w1559960879
+8C:/Users/k556u/Desktop/project/FullAdder.v
+FC:/Users/k556u/Desktop/project/FullAdder.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/k556u/Desktop/project/FullAdder.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/FullAdder.v|
+!s101 -O0
+!i113 1
+R5
+n@full@adder
+vHiLo
+R1
+!i10b 1
+!s100 z7BdfnD[<eKlWbMh`=DEi3
+I:ANQn2z<KDjd4XF?cU=[H2
+R2
+R0
+w1560338273
+8C:/Users/k556u/Desktop/project/hilo.v
+FC:/Users/k556u/Desktop/project/hilo.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/k556u/Desktop/project/hilo.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/hilo.v|
+!s101 -O0
+!i113 1
+R5
+n@hi@lo
+vID_EX
+R1
+!i10b 1
+!s100 @2_7h6@>DURm>2L5EEX7R2
+IMzcKDJ1Q4o6WR<X6c;cnh1
+R2
+R0
+w1560338327
+8C:/Users/k556u/Desktop/project/ID_EX.v
+FC:/Users/k556u/Desktop/project/ID_EX.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/k556u/Desktop/project/ID_EX.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/ID_EX.v|
+!s101 -O0
+!i113 1
+R5
+n@i@d_@e@x
+vIF_ID
+Z6 !s110 1560339438
+!i10b 1
+!s100 b1ILV@@?FCo^DUV?@UPPi0
+I7GkJ<:WQ]8ngZ=9]@G2Cf3
+R2
+R0
+w1560329153
+8C:/Users/k556u/Desktop/project/IF_ID.v
+FC:/Users/k556u/Desktop/project/IF_ID.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/k556u/Desktop/project/IF_ID.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/IF_ID.v|
+!s101 -O0
+!i113 1
+R5
+n@i@f_@i@d
+vMEM_WB
+R6
+!i10b 1
+!s100 >>MBO4HLIMRFFC62[@Ee]1
+I8zJkhA=?Y^X?ClPF0F?oL1
+R2
+R0
+w1560338596
+8C:/Users/k556u/Desktop/project/MEM_WB.v
+FC:/Users/k556u/Desktop/project/MEM_WB.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z7 !s108 1560339438.000000
+!s107 C:/Users/k556u/Desktop/project/MEM_WB.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/MEM_WB.v|
+!s101 -O0
+!i113 1
+R5
+n@m@e@m_@w@b
+vmemory
+R6
+!i10b 1
+!s100 S8W><[Bb^iLe:3jG`RU_=3
+I;`LQL<Tmi6_49Vm0H6OVA3
+R2
+R0
+w1560087860
+8C:/Users/k556u/Desktop/project/memory.v
+FC:/Users/k556u/Desktop/project/memory.v
+L0 15
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/k556u/Desktop/project/memory.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/memory.v|
+!s101 -O0
+!i113 1
+R5
+vmips_single
+R6
+!i10b 1
+!s100 Vh=bUAd1GP>Uo<`i1:j8g1
+I2HZ_[3HCK0TLm^_h4J3W;1
+R2
+R0
+w1560338883
+8C:/Users/k556u/Desktop/project/mips_single.v
+FC:/Users/k556u/Desktop/project/mips_single.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/k556u/Desktop/project/mips_single.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/mips_single.v|
+!s101 -O0
+!i113 1
+R5
+vmultiplier
+R6
+!i10b 1
+!s100 c7nf6OYWL`YZXU[G`_;UY1
+IB4BUOemfVUefQVfLhYmmW3
+R2
+R0
+w1560335131
+8C:/Users/k556u/Desktop/project/multiplier.v
+FC:/Users/k556u/Desktop/project/multiplier.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/k556u/Desktop/project/multiplier.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/multiplier.v|
+!s101 -O0
+!i113 1
+R5
+vMUX
+R6
+!i10b 1
+!s100 g_E81YVWD6V`FHhE;V:LN0
+I?=dC[WSE[jl99>EL[nT4V2
+R2
+R0
+w1560339160
+8C:/Users/k556u/Desktop/project/MUX.v
+FC:/Users/k556u/Desktop/project/MUX.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/k556u/Desktop/project/MUX.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/MUX.v|
+!s101 -O0
+!i113 1
+R5
+n@m@u@x
+vmux2
+R6
+!i10b 1
+!s100 MGPH`3bi::3ihHPf?m;h72
+I2m>;9hndDdc0Fe6moF=>f0
+R2
+R0
+w1559965208
+8C:/Users/k556u/Desktop/project/mux2.v
+FC:/Users/k556u/Desktop/project/mux2.v
+L0 5
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/k556u/Desktop/project/mux2.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/mux2.v|
+!s101 -O0
+!i113 1
+R5
+vmux2to1
+R6
+!i10b 1
+!s100 d_JPzdCheMJE^RkHFJ2Rb1
+IC2b:;[`g6L9F@kfJmj6c<0
+R2
+R0
+w1559960897
+8C:/Users/k556u/Desktop/project/mux2to1.v
+FC:/Users/k556u/Desktop/project/mux2to1.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/k556u/Desktop/project/mux2to1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/mux2to1.v|
+!s101 -O0
+!i113 1
+R5
+vmux4to1
+R6
+!i10b 1
+!s100 A5hI1WlKIgXWfSYk:^4h@3
+IEN8I]:znR;6:CB0LlZS0M2
+R2
+R0
+w1559960901
+8C:/Users/k556u/Desktop/project/mux4to1.v
+FC:/Users/k556u/Desktop/project/mux4to1.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/k556u/Desktop/project/mux4to1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/mux4to1.v|
+!s101 -O0
+!i113 1
+R5
+vreg32
+R6
+!i10b 1
+!s100 6k6:@J4mz6IM0a_:nLMa_1
+IWGR>:9YOc_D2kBWMmWG6g3
+R2
+R0
+w1560234728
+8C:/Users/k556u/Desktop/project/reg32.v
+FC:/Users/k556u/Desktop/project/reg32.v
+L0 14
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/k556u/Desktop/project/reg32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/reg32.v|
+!s101 -O0
+!i113 1
+R5
+vreg_file
+R6
+!i10b 1
+!s100 X=n9>]:Q<EGZN;CAdcN:V3
+I:B3j7c;UHH3n_4mhQVc]:3
+R2
+R0
+w1559965194
+8C:/Users/k556u/Desktop/project/reg_file.v
+FC:/Users/k556u/Desktop/project/reg_file.v
+L0 17
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/k556u/Desktop/project/reg_file.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/reg_file.v|
+!s101 -O0
+!i113 1
+R5
+vshifter
+R6
+!i10b 1
+!s100 m=e9V`ZZnO;Sa5I2[@La:3
+IBQG7Oe7L>QNeo_fCo<jIF2
+R2
+R0
+w1557767345
+8C:/Users/k556u/Desktop/project/shifter.v
+FC:/Users/k556u/Desktop/project/shifter.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/k556u/Desktop/project/shifter.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/shifter.v|
+!s101 -O0
+!i113 1
+R5
+vsign_extend
+Z8 !s110 1560339439
+!i10b 1
+!s100 bnM29P^jL69V9e7A2::Tk2
+Inm6Iic=izl[mjD75`=L[<3
+R2
+R0
+w1323786478
+8C:/Users/k556u/Desktop/project/sign extend.v
+FC:/Users/k556u/Desktop/project/sign extend.v
+L0 10
+R3
+r1
+!s85 0
+31
+Z9 !s108 1560339439.000000
+!s107 C:/Users/k556u/Desktop/project/sign extend.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/sign extend.v|
+!s101 -O0
+!i113 1
+R5
+vtb_SingleCycle
+R8
+!i10b 1
+!s100 jo>8g6T]XJUg^f=m_MiV;2
+IGGGWZ4PdOMj6jdcze7IBm0
+R2
+R0
+w1560337563
+8C:/Users/k556u/Desktop/project/tb_SingleCycle.v
+FC:/Users/k556u/Desktop/project/tb_SingleCycle.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/k556u/Desktop/project/tb_SingleCycle.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/tb_SingleCycle.v|
+!s101 -O0
+!i113 1
+R5
+ntb_@single@cycle
+vTotalALU
+R8
+!i10b 1
+!s100 ORB4deI^gFo7;dZZ_K4k;1
+IAZKUkZG3T;AZ<DP@ICVgO2
+R2
+R0
+w1560337832
+8C:/Users/k556u/Desktop/project/TotalALU.v
+FC:/Users/k556u/Desktop/project/TotalALU.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/k556u/Desktop/project/TotalALU.v|
+!s90 -reportprogress|300|-work|work|C:/Users/k556u/Desktop/project/TotalALU.v|
+!s101 -O0
+!i113 1
+R5
+n@total@a@l@u
